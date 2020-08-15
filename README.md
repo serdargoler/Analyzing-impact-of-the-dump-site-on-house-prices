@@ -1,0 +1,2 @@
+# Analyzing-impact-of-the-dump-site-on-house-prices
+If we need to locate a new garbage dump site near our city, we must look for the optimal location to minimize its impact on house prices in the area. In the report, the dataset is analyzed, and a machine learning technique is constructed to determine how large the impact of a dumpsite on house prices in the area is. Dataset is analyzed and the model is developed in R.
